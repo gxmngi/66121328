@@ -5,3 +5,6 @@ name = "Rusdan Lamsa"
 
 print(f"Student ID: {student_id}")
 print(f"Name: {name}")
+
+#ruizdanlamsa
+#66121328
